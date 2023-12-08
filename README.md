@@ -2,7 +2,7 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisakib07&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisakib07&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Current Status
 
