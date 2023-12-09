@@ -19,6 +19,9 @@
 - 👯 I’m looking to collaborate on - Real world project
 - ⚡ Fun fact: I follow most of the widely recognized sports
 
+<br>
+<br>
+
 ###
 
 ## Technologies I am fluent In
