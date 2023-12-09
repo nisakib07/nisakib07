@@ -1,4 +1,4 @@
-<img width="100%" height="300" src="https://raw.githubusercontent.com/nisakib07/nisakib07/main/Images/Git%20cover.gif"  />
+<img width="100%" height="400" src="https://raw.githubusercontent.com/nisakib07/nisakib07/main/Images/Git%20cover.gif"  />
 
 ## Streak Stats
 
