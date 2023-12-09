@@ -2,7 +2,11 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisakib07&theme=nightowl&card_width=600&background=45%2C23124D%2C0D0B24&border=8080EB)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nisakib07&theme=nightowl&card_width=600&background=45%2C23124D%2C0D0B24&border=8080EB" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## Current Status
 
